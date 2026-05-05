@@ -1,0 +1,9 @@
+python-dotenv
+requests
+pandas
+numpy
+backtesting
+streamlit
+plotly
+schedule
+oandapyV20

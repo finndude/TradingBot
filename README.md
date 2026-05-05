@@ -1,2 +1,2 @@
 # TradingBot
-Software that will execute trades live and backtest strategues
+Software that will execute trades live and backtest strategies
